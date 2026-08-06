@@ -172,6 +172,6 @@ I built this platform to showcase my ability to design, architect, and deploy co
 If you're a recruiter or engineering manager, I'd love to chat about how my skills can bring value to your engineering team!
 
 <p align="center">
-  Engineered with ❤️ by <strong>Aditya Raj</strong>
+  Engineered with ❤️ by <strong>Ankur Sharma</strong>
 </p>
 "# ai-resume-analyzer" 
